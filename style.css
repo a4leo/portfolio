@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scope+One&display=swap');
+
+body {
+    background-color: white;
+}
+
+
+.main-container{
+    color: black;
+    /**/
+    padding-left: 20em;
+    padding-right: 20em;
+    padding-top: 5em;
+    padding-bottom: 42px;
+}
+
+p{
+    margin-top: 20px;
+    font-family: 'Scope One', serif;
+    font-weight: 400;
+}
+
+#text-name{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: 32px;
+}
+
+
+#second-col {
+    padding:0 80px;
+}
+
+.square {
+    margin-top: 20px;
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    box-shadow: 0 0 2rem -6px rgba(230, 234, 245, 0.89);
+}
+
+
+.image-2{
+    padding-left: 12px;
+}
+
+ .image-3{
+     padding-top: 2em;
+     width: 100px;
+ }
+
+ .content{
+     margin-left: 2em;
+ }
+
+ .box-title{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 24px;
+    margin-top: 32px;
+ }
+
+ #logo{
+    padding-top: 5px;
+    padding-bottom: 20px;
+    width: 20px;
+ }
+
+ #logo-fix-1{
+    padding-top: 5px;
+    padding-bottom: 20px;
+    width: 30px;
+ }
+
+ #logo-fix-2{
+    padding-bottom: 60px;
+    width: 30px;
+ }
+
+ #logo-fix-3{
+    padding-bottom: 62px;
+    width: 32px;
+ }
+
+ #logo-fix-4{
+    padding-bottom: 60px;
+    width: 34px;
+ }
+
+ #logo-fix-5{
+    padding-bottom: 80px;
+    width: 34px;
+ }
+
+
+ #text-light{
+     font-weight: lighter;
+ }
+
+ .image-4{
+    margin-top: 20px;
+    width: 350px;
+}
+
+ table{
+    margin-top: 20px;
+}
+
+.image-5{
+    margin-top: 20px;
+    max-width: 100%;
+}
+
+#text-thanks{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    padding-left: 60px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+.rectangle-color-1{
+    margin-top: 20px;
+    width: 300px;
+    height: 50px;
+    background-color: #b4975a;
+  
+}
+
+.rectangle-color-2{
+    margin-top: 10px;
+    width: 300px;
+    height: 50px;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-color: #d9d9d9;
+}
+
+.rectangle-color-3{
+    margin-top: 10px;
+    width: 300px;
+    height: 50px;
+    background-color: #d9d9d9;
+    
+}
+
+h5{
+    margin-top: 20px;
+}
